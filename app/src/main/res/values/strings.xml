@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Cafe Order</string>
+    <string name="logo_description">logo description</string>
+    <string name="welcome">Welcome !!!</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_password">Enter password</string>
+    <string name="button_order">ORDER HERE</string>
+    <string name="toast_text">Name or password not filled.Please fill empty fields</string>
+    <string name="default_name">client</string>
+    <string name="default_password">password</string>
+    <string name="welcome_client">Hello, %s ! What do you want to drink ?</string>
+    <string name="radio_tea">Tea</string>
+    <string name="radio_coffee">Coffee</string>
+    <string name="addition_text">What do you want to add to your %s ?</string>
+    <string name="checkbox_sugar">Sugar</string>
+    <string name="checkbox_milk">Milk</string>
+    <string name="checkbox_limon">Limon</string>
+    <string name="choosen_drink">Choose option of drink here:</string>
+    <string name="button_description">Button to Order</string>
+    <string name="order">Name: %s\nPassword: %s\nType of drink: %s\nOption of drink: %s\n</string>
+    <string name="need_additions">\"Need additions: \"</string>
+    <string name="order_now_button">Order Now</string>
+
+    <string-array name="type_of_coffee">
+        <item>Americano</item>
+        <item>Espresso</item>
+        <item>Copucino</item>
+    </string-array>
+
+    <string-array name="type_of_tea">
+        <item>Black Tea</item>
+        <item>Green Tea</item>
+    </string-array>
+</resources>
